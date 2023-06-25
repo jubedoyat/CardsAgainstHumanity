@@ -1,0 +1,26 @@
+{
+  "name": "cards-against-humanity",
+  "version": "1.0.0",
+  "description": "A mobile version for the cards game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubedoyat/CardsAgainstHumanity.git"
+  },
+  "keywords": [
+    "cards-game"
+  ],
+  "author": "jubedoyat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jubedoyat/CardsAgainstHumanity/issues"
+  },
+  "homepage": "https://github.com/jubedoyat/CardsAgainstHumanity#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.32.1"
+  }
+}
